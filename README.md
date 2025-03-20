@@ -19,5 +19,6 @@ In the future, this platform could be expanded to include features such as:
 - **Automated Transaction Handling**: Smart contract executes transactions based on predefined conditions, reducing the risk of human error.
 
 ## Contract Address
-0xe3977e3c25053933d891FC4f886439FFD2bf8d2A
+- **0xe3977e3c25053933d891FC4f886439FFD2bf8d2A
+- 
 <img width="1439" alt="Screenshot 2025-03-20 at 3 51 18 PM" src="https://github.com/user-attachments/assets/cb2ce1e7-383d-452d-89c1-89e4144b2850" />
