@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>P2P Ticket Resale Platform</title>
+  <link rel="stylesheet" href="styles.css">
+
+<body>
+  <div class="container">
+    <h1 class="ss1">P2P Ticket Resale Platform</h1>
+    <div id="ticketInfo">
+      <h2 class="ss2">Ticket Information</h2>
+      <p><strong>Event:</strong> <span id="eventName"></span></p>
+      <p><strong>Current Price:</strong> <span id="ticketPrice"></span> ETH</p>
+      <p><strong>Available Tickets:</strong> <span id="ticketCount"></span></p>
+    </div>
+    <div id="buyerSection">
+      <h2>Buy Ticket</h2>
+      <input type="number" id="buyAmount" placeholder="Enter amount of tickets">
+      <button onclick="buyTickets()">Buy Tickets</button>
+    </div>
+    <div id="sellerSection">
+      <h2>Sell Ticket</h2>
+      <input type="number" id="sellAmount" placeholder="Enter amount of tickets">
+      <input type="number" id="sellPrice" placeholder="Enter price per ticket in ETH">
+      <button onclick="sellTickets()">Sell Tickets</button>
+    </div>
+    <div id="transactionResult">
+      <h2>Transaction Result</h2>
+      <p id="txStatus"></p>
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/web3@1.3.6/dist/web3.min.js"></script>
+  <script src="script.js"></script>
+</body>
+
+</html>
