@@ -1,0 +1,66 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgb(37, 246, 246);
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1500px;
+  margin: 20px auto;
+  background-image: url(https://cdn.leonardo.ai/users/82ef2f86-dfc8-41c6-9a04-378370bf4f64/generations/5c612540-c49d-4d94-b191-eb8b7ef7a390/Leonardo_Phoenix_10_Create_a_visually_appealing_light_backgrou_3.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1,
+h2 {
+  color: #201313;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+  border-radius: 4px;
+  border-color: azure;
+}
+
+button:hover {
+  background-color: #0b3c71;
+}
+
+input[type="number"] {
+  padding: 8px;
+  width: 100px;
+  margin-right: 10px;
+}
+
+#transactionResult {
+  margin-top: 20px;
+}
+
+#txStatus {
+  font-weight: bold;
+}
+#buyerSection {
+  text-align: center;
+}
+#sellerSection {
+  text-align: center;
+}
+.ss1 {
+  text-align: center;
+  color: white;
+}
+.ss2{
+  color: rgb(1, 2, 2);
+}
