@@ -22,4 +22,6 @@ In the future, this platform could be expanded to include features such as:
 - 0xe3977e3c25053933d891FC4f886439FFD2bf8d2A
 - <img width="1439" alt="Screenshot 2025-03-20 at 3 51 18 PM" src="https://github.com/user-attachments/assets/dbe86cfb-867b-4425-a8dc-820ac05915f3" />
 
+## Frontend
+-<img width="1440" alt="Screenshot 2025-03-21 at 3 20 42 PM" src="https://github.com/user-attachments/assets/0f167bae-7dea-47e7-a352-254646cce6ae" />
 
